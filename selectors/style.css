@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: burlywood;
+}
+
+p {
+    color: black;
+}
+
+#lorem-id {
+    background: cadetblue;
+    color: crimson;
+}
+
+.class-name {
+    margin-top: 100px;
+    color: green;
+    background: hotpink;
+}
